@@ -1,0 +1,6 @@
+
+Single-cell RNA-seq Analysis of Fibroblast Heterogeneity in Keloid and Normal Scar Tissues
+- Processed and analyzed 12177 fibroblast cells from keloid and normal scar samples.
+- Identified 2 distinct fibroblast subpopulations: KF, NF.
+- Quantified subpopulation distributions and performed PCA-based mini 3D simulation.
+- Generated interactive 3D visualization and static PCA 2D plot for CV and presentation purposes.
